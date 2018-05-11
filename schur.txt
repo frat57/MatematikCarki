@@ -1,0 +1,3 @@
+Ozdeger karelerinin toplamı: 101
+Kosegen kareleri toplamı: 72
+Ozdeger karelerinin toplamı daha fazladır
